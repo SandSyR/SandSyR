@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SandSyR!
 - 👀 I’m interested in coding bots, websites, and games. I can do 2 of the three.
-- 🌱 I’m want to someday learn Unity and Blender!
-- 📫 Reach me by emailing sandsyr@sandsyr.com.
+- 🌱 I want to someday master Unity and Blender!
+- I Want to learn Java and C++!
+- 📫 Reach me by messaging my discord (@sandsyr).
 
 <!---
 SandSyR/SandSyR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
